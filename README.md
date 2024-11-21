@@ -1,6 +1,3 @@
-Here’s a more stylish and organized version of your README file for **Movie Rating Analysis Using Hadoop**:
-
----
 
 # 🎥 Movie Rating Analysis Using Hadoop  
 
